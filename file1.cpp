@@ -1,7 +1,8 @@
 #include <iostream>
 
 void displayMenu() {
-    std::cout << "Simple Calculator" << std::endl;
+    // Change made in branch1
+    std::cout << "Simple Calculator (Branch 1)" << std::endl;
     std::cout << "1. Add" << std::endl;
     std::cout << "2. Subtract" << std::endl;
     std::cout << "3. Multiply" << std::endl;
